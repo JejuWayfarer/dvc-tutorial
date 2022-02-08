@@ -1,0 +1,4 @@
+[core]
+    remote = strage
+['remote "strage"']
+    url = gdrive://1SkBopODjAB3ZsJUZXeOBq5gM_ew0sTFr
